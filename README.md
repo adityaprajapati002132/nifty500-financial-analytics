@@ -10,7 +10,11 @@
 An end-to-end **Financial Analytics Dashboard** built on **Nifty 500 companies data**, analyzing revenue, net profit, sector performance, and identifying loss-making companies using **Python, SQL, and Power BI**.
 
 ---
+## 📸 Dashboard Preview
 
+![Dashboard](screenshots/Screenshot%202026-06-12%20032603.png)
+
+---
 ## 📌 Key Insights
 
 | Metric | Value |
